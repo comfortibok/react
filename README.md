@@ -5,3 +5,5 @@ This project contains screenshots of the instructions for various React assignme
 Clear and concise screenshots of assignment instructions.
 Interactive examples showcasing React functionality.
 Modular and reusable components for scalable applications.
+
+Hosted URL - https://icm-react.netlify.netlify.app
